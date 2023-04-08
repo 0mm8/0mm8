@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nothing<br><br>🌱 I’m currently learning Discord.Js<br><br>👯 I’m looking to collaborate on Discord Bots<br><br>- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Enxo9999?tab=repositories)<br><br>📝 I regularly work on essays [No Link Due To Names](No Link Due To Names)<br><br>💬 Ask me about Anything You Wanna Know Email Me EnxoSupport@proton.me<br><br>📄 Know about my experiences [None still In School](None still In School)<br><br>⚡ Fun fact im ass at coding
+🔭 I’m currently working on Nothing<br><br>🌱 I’m currently learning Discord.Js<br><br>👯 I’m looking to collaborate on Discord Bots<br><br>- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Enxo9999?tab=repositories)<br><br>📝 I regularly work on essays <br><br>💬 Ask me about Anything You Wanna Know Email Me EnxoSupport@proton.me<br><br>📄 Know about my experiences None still In School.<br><br>⚡ Fun fact im ass at coding
 
 
 ## 🌐 Socials:
