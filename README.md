@@ -1,6 +1,6 @@
-<p align="center"><img src="https://gpvc.arturio.dev/Sc0ped" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Sc0ped" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Sc0ped" alt="Profile Forks"></a>
+<p align="center"><img src="https://gpvc.arturio.dev/0mm8" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0mm8" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/0mm8" alt="Profile Forks"></a>
 
 ```python
 print(f'Follow {0mm8} on Github')
