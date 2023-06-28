@@ -1,11 +1,13 @@
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0mm8" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/0mm8" alt="Profile Forks"></a>
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/1055679428744728627.png"/>
+</p>
 
 ```python
 print(f'Follow {0mm8} on Github')
 ```
 
-```  python
+```  NodeJs
         OS  :  nt10
     Python  :  python 3.9.13
  Languages  :  Python, Java, Js, Batch, C, HTML/CSS
