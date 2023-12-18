@@ -1,8 +1,3 @@
-</p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1055679428744728627.png"/>
-</p>
-
 ```python
 print(f'Follow {0mm8} on Github')
 ```
