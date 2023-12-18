@@ -11,7 +11,7 @@ Working On  :  Discord Oauth3 Discord Bot
 
 ```Ruby
     OS  :  Kali Linux
-Doxxed  :  To Many Time (Man a skid fr)
+Doxxed  :  To Many Times (Man a skid fr)
 ```
 
 ```json
