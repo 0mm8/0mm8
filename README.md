@@ -3,10 +3,10 @@ print(f'Follow {0mm8} on Github')
 ```
 
 ```python
-    Python  :  python 3.9.13
+    Python  :  python 3.12.3
  Languages  :  Python, Java, Js, Batch, C, HTML/CSS
    Discord  :  1055679428744728627
-Working On  :  Discord Oauth3 Discord Bot
+Working On  :  Nothing cause am retarded
 ```
 
 ```Ruby
